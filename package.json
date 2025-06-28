@@ -1,0 +1,15 @@
+{
+  "name": "semana-13",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ejercicio de la semana 13, profe capo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamara Marquez",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.14.1"
+  }
+}
